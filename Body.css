@@ -85,7 +85,10 @@ p{
     color: rgb(69, 69, 69);
 }
 
-
+.link-at-title{
+    text-decoration: none;
+    color: black;
+}
 .link-at-channel-name{
     text-decoration: none;
     color: rgb(69, 69, 69);
