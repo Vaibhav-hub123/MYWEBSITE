@@ -74,6 +74,8 @@ p{
     font-size: 15px;
     line-height: 20px;
     margin-bottom: 12px;
+    text-decoration: none;
+    color: black;
 }
 .Channel-name{
     margin-bottom: 4px;
@@ -83,10 +85,7 @@ p{
     color: rgb(69, 69, 69);
 }
 
-.link-at-title{
-    text-decoration: none;
-    color: black;
-}
+
 .link-at-channel-name{
     text-decoration: none;
     color: rgb(69, 69, 69);
