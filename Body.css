@@ -22,6 +22,7 @@ p{
     width: 35px;
     height: 35px;
     border-radius:20px;
+    cursor: pointer;
 }
 
 .Screen-grid{
@@ -83,7 +84,15 @@ p{
     color: rgb(69, 69, 69);
 }
 
+.link-at-title{
+    text-decoration: none;
+    color: black;
+}
+.link-at-channel-name{
+    text-decoration: none;
+    color: rgb(69, 69, 69);
 
+}
 
 
 
