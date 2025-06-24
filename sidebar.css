@@ -15,7 +15,7 @@
     align-items: center;
     cursor: pointer;
     background-color: white;
-    height: 76px;
+    height: 70px;
     transition: background-color 0.25s;
 }
 .side-buttons:hover{
